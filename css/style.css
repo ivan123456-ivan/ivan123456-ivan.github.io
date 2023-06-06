@@ -1,0 +1,104 @@
+/* General */
+/* FlexBox */
+
+/* General */
+/*Tamaños, fuentes, posiciones, margenes y paddings*/
+
+/*General */
+
+/* fondos, decoraciones y colores */
+
+/*Animaciones y efectos*/
+
+/* Fin de general */
+
+/*Header*/
+/*Tamaños, fuentes, posiciones, margenes y paddings*/
+
+/* fondos, decoraciones y colores */
+
+/*Fin header*/
+
+/* main */
+/*Tamaños, fuentes, posiciones, margenes y paddings*/
+.container-comentario {
+    height: 60vh;
+}
+
+.info {
+    margin-top: 15px;
+}
+
+.container-contact {
+    height: 100%;
+    min-height: 100vh;
+}
+.about-container {
+    min-height: 100vh;
+}
+
+.about-text {
+    font-size: 25px;
+}
+
+.about-title {
+    font-size: 38px;
+}
+h2 {
+    font-size: 40px;
+}
+
+.fecha {
+    text-align: end;
+}
+
+.contenedor-noticia {
+    width: 850px;
+    margin-left: 110px;
+}
+
+.descripcion,
+.descripcion-page {
+    width: 420px;
+}
+
+.descripcion-page {
+    width: auto;
+    margin: 50px;
+}
+
+.pie-foto {
+    font-size: small;
+    margin: 20px;
+}
+
+/* fondos, decoraciones y colores */
+
+.pie-foto,
+.noticia {
+    color: #00000080;
+}
+
+.comentarios {
+    background-color: var(--gray);
+}
+
+h1,
+.links a {
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(110, 95, 160);
+}
+
+.links a,
+.btn-header,
+.container-redes {
+    cursor: pointer;
+}
+
+/*Fin de main*/
+
+/*Footer*/
